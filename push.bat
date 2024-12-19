@@ -40,6 +40,6 @@ git add %file%
 
 git commit -m %content%
 
-git push origin %branch%
+git push -u origin %branch%
 
 pause
